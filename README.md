@@ -1,10 +1,8 @@
-# Automated-Testing.
-
 # 🧪 Automatización de Pruebas Web con Selenium y Pytest
 
 Este proyecto en Python+Selenium realiza **pruebas automatizadas** del sitio web [Swag Labs](https://www.saucedemo.com/), una plataforma de demostración para pruebas funcionales de UI.
 
-El flujo simula la experiencia completa de un usuario: **inicio de sesión, agregar productos al carrito, finalizar compra y cerrar sesión**, tomando capturas de pantalla en cada paso y generando un **reporte HTML** detallado.
+El flujo simula la experiencia completa de un usuario: **inicio de sesión, agregar productos al carrito, finalizar compra y cerrar sesión**, tomando capturas de pantalla en cada paso y generando un **reporte HTML** detallado almacenado en una carpeta llamada results.
 
 ---
 
